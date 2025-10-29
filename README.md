@@ -396,29 +396,3 @@ Per contribuire al progetto:
 ## 📄 Licenza
 
 Questo progetto è distribuito sotto licenza MIT. Vedi il file `LICENSE` per maggiori dettagli.
-
-## 🆘 Supporto
-
-Per problemi o domande:
-
-- Apri una [Issue su GitHub](https://github.com/tuousername/ecotrade-automation/issues)
-- Contatta: supporto@tuodominio.it
-
-## ⚡ Performance
-
-- Tempo medio per account: 2-5 minuti
-- Consigliato: Esecuzione in orari notturni (minor carico server)
-- Risorse: ~100MB RAM, ~500MB disco per download
-
-## 🔄 Aggiornamenti Futuri
-
-- [ ] Supporto notifiche Telegram
-- [ ] Dashboard web per monitoraggio
-- [ ] Export esiti in Excel
-- [ ] Gestione proxy
-- [ ] Modalità dry-run (test senza download)
-- [ ] API REST per integrazione esterna
-
----
-
-**Nota**: Questo script è fornito "as-is" senza garanzie. Utilizzalo responsabilmente e rispetta i termini di servizio del portale Ecotrade.
